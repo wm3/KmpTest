@@ -292,7 +292,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		5B31151E2ED2EC7100E5ACC0 /* Debug */ = {
+		5B31151E2ED2EC7100E5ACC0 /* Debug2 */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -353,7 +353,7 @@
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
-			name = Debug;
+			name = Debug2;
 		};
 		5B31151F2ED2EC7100E5ACC0 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -411,7 +411,7 @@
 			};
 			name = Release;
 		};
-		5B3115212ED2EC7100E5ACC0 /* Debug */ = {
+		5B3115212ED2EC7100E5ACC0 /* Debug2 */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -436,7 +436,7 @@
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
-			name = Debug;
+			name = Debug2;
 		};
 		5B3115222ED2EC7100E5ACC0 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -465,7 +465,7 @@
 			};
 			name = Release;
 		};
-		5B3115242ED2EC7100E5ACC0 /* Debug */ = {
+		5B3115242ED2EC7100E5ACC0 /* Debug2 */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -481,7 +481,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KmpTestIOS.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KmpTestIOS";
 			};
-			name = Debug;
+			name = Debug2;
 		};
 		5B3115252ED2EC7100E5ACC0 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -501,7 +501,7 @@
 			};
 			name = Release;
 		};
-		5B3115272ED2EC7100E5ACC0 /* Debug */ = {
+		5B3115272ED2EC7100E5ACC0 /* Debug2 */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -515,7 +515,7 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = KmpTestIOS;
 			};
-			name = Debug;
+			name = Debug2;
 		};
 		5B3115282ED2EC7100E5ACC0 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -539,7 +539,7 @@
 		5B3114FA2ED2EC6E00E5ACC0 /* Build configuration list for PBXProject "KmpTestIOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5B31151E2ED2EC7100E5ACC0 /* Debug */,
+				5B31151E2ED2EC7100E5ACC0 /* Debug2 */,
 				5B31151F2ED2EC7100E5ACC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
@@ -548,7 +548,7 @@
 		5B3115202ED2EC7100E5ACC0 /* Build configuration list for PBXNativeTarget "KmpTestIOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5B3115212ED2EC7100E5ACC0 /* Debug */,
+				5B3115212ED2EC7100E5ACC0 /* Debug2 */,
 				5B3115222ED2EC7100E5ACC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
@@ -557,7 +557,7 @@
 		5B3115232ED2EC7100E5ACC0 /* Build configuration list for PBXNativeTarget "KmpTestIOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5B3115242ED2EC7100E5ACC0 /* Debug */,
+				5B3115242ED2EC7100E5ACC0 /* Debug2 */,
 				5B3115252ED2EC7100E5ACC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
@@ -566,7 +566,7 @@
 		5B3115262ED2EC7100E5ACC0 /* Build configuration list for PBXNativeTarget "KmpTestIOSUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5B3115272ED2EC7100E5ACC0 /* Debug */,
+				5B3115272ED2EC7100E5ACC0 /* Debug2 */,
 				5B3115282ED2EC7100E5ACC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
